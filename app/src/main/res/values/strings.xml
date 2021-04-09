@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpaceFlightNews</string>
+    <string name="userGuidText">Press the fab button below this to get News</string>
+    <string name="floatingButton">floating Button</string>
+    <string name="NewsImage">News Image</string>
+    <string name="Newssource">news source</string>
+    <string name="NewsTitle">News title</string>
+    <string name="newsDescription">news discription</string>
+    <string name="publishedDate">Published Date</string>
+</resources>
